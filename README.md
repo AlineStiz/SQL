@@ -1,4 +1,6 @@
-# SQL
+# SQL 
+
+## Repositório criado com atividades do curso FIC oferecido pelo Instituto Federal de Rondônia. 
 
 Aulas e Scripts com o uso da linguagem SQL.
 
